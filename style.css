@@ -1,4 +1,3 @@
-/*МОБИЛКА*/
 
 *,
 *::before,
@@ -51,6 +50,7 @@ a:not([class]) {
 }
 a{
   text-decoration:none;
+  cursor:none;
 }
 
 img,
